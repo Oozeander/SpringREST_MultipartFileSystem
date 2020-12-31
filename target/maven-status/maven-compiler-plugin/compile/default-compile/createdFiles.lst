@@ -1,0 +1,8 @@
+com\oozeander\service\FileService.class
+com\oozeander\service\impl\FileServiceImpl.class
+com\oozeander\model\File.class
+com\oozeander\App.class
+com\oozeander\resource\FileResource.class
+com\oozeander\config\JavaConfig.class
+com\oozeander\config\RestConfig.class
+com\oozeander\config\WebAppInitializer.class
